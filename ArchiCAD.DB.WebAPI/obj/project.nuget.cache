@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRDWy/GaWDc4SNEi4kPAW6l+UZhpHtdzVmgBhw9zmydQ0AdsZ3WZ1xP+yxkk9lGT/BsBfms8DEo9+tQE7AYUog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terny_PC\\Desktop\\AC-DB-GetData-master\\ArchiCAD.DB.WebAPI\\ArchiCAD.DB.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terny_PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Terny_PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
